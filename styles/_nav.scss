@@ -19,6 +19,9 @@ nav {
   display: none;
   @include tablet {
     display: flex;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1000px;
   }
 }
 
