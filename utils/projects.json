@@ -15,6 +15,26 @@
     ]
   },
   {
+    "imageSrc": "assets/voluble.jpeg",
+    "imageAlt": "Voluble",
+    "featuredText": "Featured Project",
+    "title": "Voluble",
+    "description": "Voluble is a full-stack chat application created to review user authentication, real-time updates with web sockets, and database management. Create an account, upload a profile picture, change your theme, and chat with friends instantly!",
+    "technologies": ["MongoDB", "Express", "React", "Node.js", "Socket.io", "JSON Web Tokens", "Tailwind CSS", "Daisy UI"],
+    "links": [
+      {
+        "text": "Code",
+        "url": "https://github.com/nathandallas/voluble",
+        "isExternal": true
+      },
+      {
+        "text": "Demo",
+        "url": "https://voluble-ocnk.onrender.com/",
+        "isExternal": true
+      }
+    ]
+  },
+  {
     "imageSrc": "assets/qrcpreview.png",
     "imageAlt": "QR Code Generator Preview",
     "featuredText": "Featured Project",
