@@ -524,6 +524,7 @@ section {
   section {
     margin: 6rem auto;
     width: 60vw;
+    max-width: 1000px;
   }
 }
 section h2 {

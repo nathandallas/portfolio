@@ -152,6 +152,7 @@ section {
   @include tablet {
     margin: 6rem auto;
     width: 60vw;
+    max-width: 1000px;
   }
 
   & h2 {
