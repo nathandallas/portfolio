@@ -11,6 +11,11 @@
         "text": "Code",
         "url": "https://github.com/nathandallas/drawllab",
         "isExternal": true
+      },
+            {
+        "text": "Demo",
+        "url": "https://nathandallas.github.io/drawllab/",
+        "isExternal": true
       }
     ]
   },
