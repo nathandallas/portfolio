@@ -4,7 +4,7 @@
     "imageAlt": "Drawllab",
     "featuredText": "Featured Project",
     "title": "Drawllab",
-    "description": "Created in 2021 as a capstone project and redesigned in 2026, Drawllab is currently a drawing application for making quick sketches and wireframes, similar to Excalidraw. Plans for the next major update include web sockets and more canvas tools. ",
+    "description": "Created in 2021 as a capstone project and redesigned in 2026, Drawllab isa lightweight drawing application for making quick sketches and wireframes, similar to Excalidraw. Plans for the next major update include web sockets and more canvas tools. ",
     "technologies": ["React", "JavaScript", "HTML Canvas"],
     "links": [
       {
